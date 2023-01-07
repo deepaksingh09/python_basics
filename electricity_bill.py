@@ -1,7 +1,7 @@
 """
 electricity bill
-unit
-amount
+unit  - electricity comsumed by the user
+amount-- bill generated on the basis of usage
 """
 amount=0
 unit=int(input("enter the unit that comsumed="))
